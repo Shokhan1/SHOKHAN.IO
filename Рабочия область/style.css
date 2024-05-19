@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    background-image: url(IMPEROR.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+article{
+    display: flex; 
+    flex-direction: column; 
+    align-items: center;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
+.PYTHON{
+    color: blueviolet;
+    background-color:white;
+    background-size: auto;
+}
+.PYTHON>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+}
+.UNITI{
+    background-color:white;
+}
+.UNITI>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+}
+.HTMLL{
+    background-color:white;
+}
+.HTMLL>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+}
+.Banner{
+    padding: 10px 5%;
+    background-color:white;
+}
+.Banner>*{
+    display: inline-block;
+    width:450px;
+    font-size:30px;
+    vertical-align: middle;
+}
+
+
